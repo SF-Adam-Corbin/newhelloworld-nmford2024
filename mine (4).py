@@ -7,4 +7,3 @@ def hello_world():
   variable_name = '"Hello world!"'
   
   return variable_name
-print(hello_world())
